@@ -1,1 +1,1 @@
-import './libs/swiper/slider-main'
+import './widgets/header'
